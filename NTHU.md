@@ -134,6 +134,22 @@
 | 考試             | 3 次       | 各 25%，合計 75% |
 
 
+
+### EECS302002 | **張正尚** | 計算機網路概論，Introduction to Computer Networks
+> 沒有資源
+> 用 eeclass
+
+- 否 No
+- 其他
+
+| 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 參與度 | - | 5 |
+| 小考 | 8 | 15 |
+| 作業和專案 | - | 25 |
+| 期中 | 1 | 25 |
+| 期末 | 1 | 30 |
+
 # GE
 ### GE117300 | 侍建宇 | 中亞國際關係 Central Asia: Politics and Society and Contested Powers
 - **社會科學領域 Elective GE course: Social Sciences**
