@@ -103,6 +103,17 @@
 | 參與度         | —        | 10%         |
 
 
+
+### CS1234 | **das** | dsa，dsa
+> [資源連結](dsa)
+> 用 eLearn
+- 是 Yes
+- 其他
+
+| 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| dsa | 1 | 10% |
+
 # EECS
 ### EECS121000 | 周百祥 | Python語言程式入門 Introduction to Programming in Python
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/Eq6_w6h1trZEqlFyS_dXAggBh1f7oK42LuNuT3ZkQxTIuQ?e=zlaXfc)
