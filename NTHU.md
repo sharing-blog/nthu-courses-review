@@ -10,6 +10,8 @@
 - [MATH](#MATH)
 - [PE](#PE)
 - [PHYS](#PHYS)
+- [dsa](#dsa)
+
 
 # Markdown
 ## 手動
@@ -280,3 +282,14 @@
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/En5FyD0h78xIlhQA4WNNK3wBOk51tzQ5q3ACstgqSmct_g?e=6i5tPQ)
 > 用 ELearn
 - 全部跟上學期一樣，包括考試
+# dsa
+
+### dsa | **das** | dsa，dsa
+> [資源連結](dsa)
+> 用 eLearn
+- 是 Yes
+- 其他
+
+| 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| dsa | 1 | 10% |
