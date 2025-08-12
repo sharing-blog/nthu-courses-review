@@ -135,11 +135,11 @@
 
 
 
-### EECS302002 | **張正尚** | 計算機網路概論，Introduction to Computer Networks
+### EECS302002 | **張正尚** | 計算機網路概論，Introduction to Compute
 > 沒有資源
-> 用 eeclass
+ > 用 eeclass
 
-- 否 No
+- 不會點名
 - 其他
 
 | 作業 / 考試 | 次數     | 總成績佔比  |
