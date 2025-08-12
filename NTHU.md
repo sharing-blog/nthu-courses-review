@@ -284,7 +284,7 @@
 
 ### FL201113 | **張嘉芬** | 初級日語一，Beginning Japanese I
 > 沒有資源
- > 用 eeclass
+> 用 eeclass
 
 - 會點名
 - 其他
