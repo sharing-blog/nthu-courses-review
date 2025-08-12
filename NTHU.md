@@ -1,4 +1,6 @@
 # Index (Prefix / 課號前綴)
+- [FL](#FL)
+
 - [Template 模板](#Markdown)
 - [CL](#CL)
 - [CS](#CS)
@@ -280,3 +282,17 @@
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/En5FyD0h78xIlhQA4WNNK3wBOk51tzQ5q3ACstgqSmct_g?e=6i5tPQ)
 > 用 ELearn
 - 全部跟上學期一樣，包括考試
+# FL
+
+### FL201113 | **張嘉芬** | 初級日語一，Beginning Japanese I
+沒有資源> 用 eeclass
+- 是 Yes
+- 其他
+
+| 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 點名 16 10 | 1 | 10% |
+| 作業 8 10 | 1 | 10% |
+| 期中 2 50 | 1 | 10% |
+| 期末 1 30 | 1 | 10% |
+| ooixinsheng12345@gmail.com | 1 | 10% |
