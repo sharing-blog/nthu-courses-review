@@ -1,3 +1,8 @@
+語言：
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![臺灣正體](https://img.shields.io/badge/lang-zh-TW.svg)](README-zh-TW.md)
+
 # 課程評論自動化工具
 
 - 一個簡單的工具，用來自動化整理大學課程評論。  
