@@ -142,6 +142,24 @@
 | 上課提問與參與討論   | —            | 15      |
 | 口頭報告與書面作業   | 3篇心得報告 | 75        |
 
+### GE154200 | **桑惠敏** | 系統思維與統計應用，System thinking and statistics application
+  > 沒有資源 | ==用 eeclass== **anonymous**
+  - 不會點名
+  - 其他
+
+  | 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+| ? |
+  
 ### GE196200 | 潘瑋 | 生活中的選擇與賽局 Decision making and Games in daily life
 - **自然科學領域 Elective GE course: Natural Sciences**
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EltKYPuxPw1PhTvHxfRRii8BSRsI0sRoD6Z9DCHzczsJug?e=6u1lJQ) | ==用 ELearn==  **[name=xs]**
