@@ -1,4 +1,5 @@
 # Index 
+
 ## (Prefix / 課號前綴)
 - [Template 模板](#Markdown)
 - [CL](#CL)
@@ -8,10 +9,10 @@
 - [GEC](#GEC)
 - [HSS](#HSS)
 - [LANG](#LANG)
+- [LZ](#LZ)
 - [MATH](#MATH)
 - [PE](#PE)
 - [PHYS](#PHYS)
-
 # Markdown
 ## 手動
 ```
@@ -214,6 +215,20 @@
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EmIdLKBwMptIuPg0C5sYVrIB_Plu4ZdErwOimrYgxvTKoQ?e=pMiwSn) | ==用 eeclass==  **[name=xs]**
 - 全部跟上學期一樣，包括考試
 - 加分形式變成搜集卡片
+
+# LZ
+### LZ1234 | **張嘉芬** | 初級日語一，In the Benninging
+  > [資源連結](duckduckgo.com) | ==用 eeclass, eLearn, 清華磨課師 MOOCS, 沒有 Not Using Any== **帥哥 lol**
+  - 不會點名
+  - 其他
+
+  | 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 分組專題 | 1 | 10 |
+| 作業 | 16 | 20 |
+| 期中 | 2 | 40 |
+| 期末 | 1 | 30 |
+  
 
 # MATH
 ### MATH103006 | 顏東勇 | 微積分Ｂ一 Calculus I
