@@ -57,18 +57,6 @@
 | 期末專案（含一天黑客松） | 1 次       | 15%   |
 
 
-### CS233602 | 蔡明哲 | 離散數學 Discrete Mathematics
-> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EuXWHogBQ6JFmcljKd7EtOsBnnbgBAZeXdOk-m1rINS_FA?e=cM9afw) | ==用 eeclass==  **[name=xs]**
-- 不會點名
-- （舉手 && 答對）會加分
-- 上課的節奏很酷，刺激
-- 個人是讀原文書，因為講義給我很跳脫的感覺
-
-| 作業 / 考試 | 次數    | 總成績佔比 |
-|--------|---------|----------------|
-| 小考   | 10 次   | 30%            |
-| 考試   | 2 次    | 70%            |
-
 ### CS135601 | 郭柏志 | 計算機程式設計二 Introduction to Programming (II)
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/Es9dYU6zlhRLoGneHoHHFZIBRLZAt5ifCCQUASMMsZ59WA?e=1f5WRn) | ==用 eeclass==  **[name=xs]**
 - 大調分但還是沒 A+（老師、菜菜、撈撈
@@ -84,6 +72,28 @@
 | Mini Project II 和黑客松  | 1 次         | 6%        |
 | Final Project（Allegro 遊戲） | 1 次    | 12%       |
 
+
+### CS20321 | **teach** | name，namename
+  > 沒有資源 | ==用 eeclass== **lamp**
+  - 會點名
+  - 其他
+
+  | 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 分組專題 | 1 | 10 |
+| 分組專題 | 110 |
+  
+### CS233602 | 蔡明哲 | 離散數學 Discrete Mathematics
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EuXWHogBQ6JFmcljKd7EtOsBnnbgBAZeXdOk-m1rINS_FA?e=cM9afw) | ==用 eeclass==  **[name=xs]**
+- 不會點名
+- （舉手 && 答對）會加分
+- 上課的節奏很酷，刺激
+- 個人是讀原文書，因為講義給我很跳脫的感覺
+
+| 作業 / 考試 | 次數    | 總成績佔比 |
+|--------|---------|----------------|
+| 小考   | 10 次   | 30%            |
+| 考試   | 2 次    | 70%            |
 
 ### CS235100 | 陳宜欣 | 資料結構 Data Structures
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EqT78b1jsjNEuySVo3cKq6wBT7_W_atBG1gjHYR_F3YiDw?e=f11hG4) | ==用 eeclass==  **[name=xs]**
