@@ -4,6 +4,7 @@
 - [CL](#CL)
 - [CS](#CS)
 - [EECS](#EECS)
+- [FL](#FL)
 - [GE](#GE)
 - [GEC](#GEC)
 - [HSS](#HSS)
@@ -98,6 +99,30 @@
 | 考試           | 2 次     | 45%         |
 | 參與度         | —        | 10%         |
 
+### CS233401 | 林瀚仚 | 線性代數 Linear Algebra
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgBs-j4Hou-nSY6lnfKxhkaYAU1pes5ND3yLnjXSfbhJ7ms?e=VZwHy1) | ==用 eLearn==  **[name=xs]**
+- 有線上，不用到教室
+- 甜涼好課？
+
+| 作業 / 考試     | 次數     | 總成績佔比  |
+|----------------|----------|-------------|
+| 作業           | 多次     | 20%         |
+| 期中           | 1 次     | 40%         |
+| 期末          | 1 次     | 40%         |
+
+### CS210401 | 黃稚存 | 硬體設計與實驗 Hardware Design and Lab
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgB5iUWJxMAzTopBb3lpGQeHAQtO0-sXwokJqBQAk5ae7M4?e=FXZ00h) | ==用 eeclass==  **[name=xs]**
+- 小累、需要熬夜（除非你很電，當我沒說）
+- 記得用膝蓋想，太複雜的東西做不了
+
+| 作業 / 考試     | 次數     | 總成績佔比  |
+|----------------|----------|-------------|
+| Basic Lab（上機）   | 6 次     | 24%         |
+| Advanced Lab     | 5 次     | 25%         |
+| 期中          | 2 次     | 13% * 2 = 26%         |
+| Final Project(Anything)  | 1 次     | 24%         |
+
+
 
 # EECS
 ### EECS121000 | 周百祥 | Python語言程式入門 Introduction to Programming in Python
@@ -127,6 +152,35 @@
 | 作業 / 小考      | 多次     | 25%           |
 | 考試             | 3       | 各25%，合計75% |
 
+### EECS302002 | 張正尚 | 計算機網路概論 Introduction to Computer Networks
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgAfdO7LhXxdQoIhqhdoOzqeAawzbr2Cjb7lcs2GAbl9GOU?e=a1FJRt) | ==用 eeclass==  **[name=xs]**
+- 考古（包括小考）之神
+- 學到超多東西
+
+| 作業 / 考試       | 次數       | 總成績佔比    |
+|------------------|------------|---------------|
+| 期中考試          | 1 次       | 25%        |
+| 期末考試          | 1 次       | 30%        |
+| 小考              | —          | 15%        |
+| 作業 & 專題        | —          | 25%        |
+| 作業  | 4 次       | 15%        |
+| 期末專題          | 1 次       | 10%        |
+| 課堂參與（老師用來平衡分數的） | — | 5%         |
+
+
+# FL
+### FL201113 | 張嘉芬 | 初級日語一 Beginning Japanese I
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgAUY3z6hLx4RJWpaSkS0ppIATGu0r0qT8iqh3116N2-0Bc?e=IdUYHu) | ==用 eeclass==  **[name=xs]**
+- 要給老師回饋（不然聽說會炸）
+- 就很簡單
+
+| 作業 / 考試       | 次數       | 總成績佔比    |
+|------------------|------------|---------------|
+| 期中分組團唱       | 1 次（曲目各組自選）             | 3%         |
+| 期中筆試           | 1 次                             | 20%        |
+| 期末分組話劇表演   | 1 次（每人五句以上）             | 7%         |
+| 期末筆試           | 1 次                             | 20%        |
+| 其他               | 參與、出缺席、小考、隨堂考       | 50%        |
 
 # GE
 ### GE117300 | 侍建宇 | 中亞國際關係 Central Asia: Politics and Society and Contested Powers
@@ -158,6 +212,21 @@
 | 實驗與報告              | 多次            | 20         |
 | 期末考                  | 1            | 20        |
 
+### GE180200 | 朱真儀 | 運動與健康 Exercise and Health
+- **自然科學領域 Elective GE course: Natural Sciences**
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgDg9OW0m39eSYfTjCkplxicAZ40MVFm7Iu161uz14clhrQ?e=3S5Rgk) | ==用 eeclass==  **[name=xs]**
+- 通常會透過現場拍照點名
+- 如果你喜歡早睡早醒的話我蠻推的
+- 算輕鬆但有點麻煩
+
+| 作業 / 考試        | 次數 / 說明                                      | 總成績佔比 |
+|-------------------|-------------------------------------------------|------------|
+| 平時成績          | 學習單＋其他表現                     | 40%        |
+| 創意運動短片      | 1 次                            | 15%        |
+| 運動新嘗試        | 1 次                  | 15%        |
+| 運動紀錄          | —                                               | 20%        |
+| 課程回饋          | —                                               | 10%        |
+
 
 # GEC
 ### GEC110600 | 吳俊業、趙之振 | 知識與實在 Knowledge and Reality
@@ -172,6 +241,40 @@
 | 出席率     | —      | 10%        |
 | 參與度     | —      | 10%        |
 | 考試       | 2 次   | 80%     |
+
+### GEC150202 | 林宗德 | 科技與社會 Science, Technology and Society
+- **核心通識Core GE courses向度二**
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgA996Ric837SIhqZWzKMZlaAayL8NX39X8RsaQ2-cLIcKM?e=5PpGde) | ==用 ELearn==  **[name=xs]**
+- 超 chill
+- 但需要會聊天，大部分都是分組作業
+- 老師會讓不同科系的人做一桌
+
+| 作業 / 考試 | 次數 | 總成績佔比 |
+|-------------------------|-------------------------------------|------------|
+| 課前提問            | n                                   | 5%         |
+| 課堂小考                | 不定（事先公布週次）                | 5%         |
+| 課堂發言與參與          | —                                   | 15%        |
+| 課堂口頭報告  | 1 次 | 10% |
+| 個人作業（1500–2500 字） | 1 次  | 25% |
+| 課堂出席  | — | 5% |
+| 助教評量                | —                                   | 5%         |
+| 小組互評                | —                                   | 5%         |
+| 期末報告（口頭＋書面） | 1 次 | 30%        |
+
+### GEC130402 | 梅韻秋 | 藝術與社會 Art and Society
+- **核心通識Core GE courses向度三**
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgBZHo_Gd0hBT4ia_s6hk3juARlytRRDT41617pbW6QYV_0?e=6ec5MQ) | ==用 eeclass==  **[name=xs]**
+- 超級硬，建議有藝術底子的修
+- 前半學期有朋友的話可以翹課
+- 後半真的地獄
+
+| 作業 / 考試 | 次數   | 總成績佔比 |
+|------------|--------|------------|
+| 出席狀況     | —      | 10%        |
+| 課堂參與     | —      | 10%        |
+| 個人報告      | 1 次   | 25%     |
+| 期中測驗    | 1 次   | 25%     |
+| 期末分組報告 | 1 次   | 30%     |
 
 
 # HSS
@@ -247,6 +350,12 @@
 - 要環校路跑
 - 甜涼好課
 - 就體育，沒什麼特別的
+
+### PE 205082 | 邵心平 | 網球初學 Tennis(basic)
+> 沒資源  **[name=xs]**
+- 甜涼好課
+- 就體育，沒什麼特別的
+- 真的想學也推薦找他
 
 # PHYS
 ### PHYS113304 | 鄭弘泰 | 普通物理Ｂ一 General Physics B (I)
