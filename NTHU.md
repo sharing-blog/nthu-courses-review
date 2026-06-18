@@ -192,6 +192,19 @@
 - **人文學領域 Elective GE course: Humanities**
 
 # LANG
+### LANG101011 | **張華芸** | 中高級英文一，Upper-Intermediate English I
+  > 沒有資源 | ==用 eeclass== **[name=尤馨琳]**
+  - 會點名
+  - 其他
+
+  | 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 出席率 | — | 15 |
+| 小考 | 3 | 15 |
+| 作業 | 2 | 28 |
+| 分組報告 | 1 | 12 |
+| 期末 | 1 | 30 |
+  
 ### LANG101013 | 劉美慈 | 中高級英文一 Upper-Intermediate English I
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EoD8wDPC58lPmdA9CyICiuMBN_dX2-Pxzm2kRZeAmZVbpg?e=LOzKYV) | ==用 eeclass==  **[name=xs]**
 - 會點名
