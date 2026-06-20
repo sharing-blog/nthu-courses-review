@@ -58,18 +58,6 @@
 | 期末專案（含一天黑客松） | 1 次       | 15%   |
 
 
-### CS233602 | 蔡明哲 | 離散數學 Discrete Mathematics
-> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EuXWHogBQ6JFmcljKd7EtOsBnnbgBAZeXdOk-m1rINS_FA?e=cM9afw) | ==用 eeclass==  **[name=xs]**
-- 不會點名
-- （舉手 && 答對）會加分
-- 上課的節奏很酷，刺激
-- 個人是讀原文書，因為講義給我很跳脫的感覺
-
-| 作業 / 考試 | 次數    | 總成績佔比 |
-|--------|---------|----------------|
-| 小考   | 10 次   | 30%            |
-| 考試   | 2 次    | 70%            |
-
 ### CS135601 | 郭柏志 | 計算機程式設計二 Introduction to Programming (II)
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/Es9dYU6zlhRLoGneHoHHFZIBRLZAt5ifCCQUASMMsZ59WA?e=1f5WRn) | ==用 eeclass==  **[name=xs]**
 - 大調分但還是沒 A+（老師、菜菜、撈撈
@@ -86,30 +74,6 @@
 | Final Project（Allegro 遊戲） | 1 次    | 12%       |
 
 
-### CS235100 | 陳宜欣 | 資料結構 Data Structures
-> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EqT78b1jsjNEuySVo3cKq6wBT7_W_atBG1gjHYR_F3YiDw?e=f11hG4) | ==用 eeclass==  **[name=xs]**
-- 有線上，不用到教室
-- 甜涼好課
-- 參與度是 eeclass 上的測驗，記得寫
-
-| 作業 / 考試     | 次數     | 總成績佔比  |
-|----------------|----------|-------------|
-| 線上小考       | 多次     | 25%         |
-| 作業           | 多次     | 20%         |
-| 考試           | 2 次     | 45%         |
-| 參與度         | —        | 10%         |
-
-### CS233401 | 林瀚仚 | 線性代數 Linear Algebra
-> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgBs-j4Hou-nSY6lnfKxhkaYAU1pes5ND3yLnjXSfbhJ7ms?e=VZwHy1) | ==用 eLearn==  **[name=xs]**
-- 有線上，不用到教室
-- 甜涼好課？
-
-| 作業 / 考試     | 次數     | 總成績佔比  |
-|----------------|----------|-------------|
-| 作業           | 多次     | 20%         |
-| 期中           | 1 次     | 40%         |
-| 期末          | 1 次     | 40%         |
-
 ### CS210401 | 黃稚存 | 硬體設計與實驗 Hardware Design and Lab
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgB5iUWJxMAzTopBb3lpGQeHAQtO0-sXwokJqBQAk5ae7M4?e=FXZ00h) | ==用 eeclass==  **[name=xs]**
 - 小累、需要熬夜（除非你很電，當我沒說）
@@ -124,6 +88,56 @@
 
 
 
+### CS233401 | 林瀚仚 | 線性代數 Linear Algebra
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgBs-j4Hou-nSY6lnfKxhkaYAU1pes5ND3yLnjXSfbhJ7ms?e=VZwHy1) | ==用 eLearn==  **[name=xs]**
+- 有線上，不用到教室
+- 甜涼好課？
+
+| 作業 / 考試     | 次數     | 總成績佔比  |
+|----------------|----------|-------------|
+| 作業           | 多次     | 20%         |
+| 期中           | 1 次     | 40%         |
+| 期末          | 1 次     | 40%         |
+
+### CS233602 | 蔡明哲 | 離散數學 Discrete Mathematics
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EuXWHogBQ6JFmcljKd7EtOsBnnbgBAZeXdOk-m1rINS_FA?e=cM9afw) | ==用 eeclass==  **[name=xs]**
+- 不會點名
+- （舉手 && 答對）會加分
+- 上課的節奏很酷，刺激
+- 個人是讀原文書，因為講義給我很跳脫的感覺
+
+| 作業 / 考試 | 次數    | 總成績佔比 |
+|--------|---------|----------------|
+| 小考   | 10 次   | 30%            |
+| 考試   | 2 次    | 70%            |
+
+### CS235100 | 陳宜欣 | 資料結構 Data Structures
+> [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/EqT78b1jsjNEuySVo3cKq6wBT7_W_atBG1gjHYR_F3YiDw?e=f11hG4) | ==用 eeclass==  **[name=xs]**
+- 有線上，不用到教室
+- 甜涼好課
+- 參與度是 eeclass 上的測驗，記得寫
+
+| 作業 / 考試     | 次數     | 總成績佔比  |
+|----------------|----------|-------------|
+| 線上小考       | 多次     | 25%         |
+| 作業           | 多次     | 20%         |
+| 考試           | 2 次     | 45%         |
+| 參與度         | —        | 10%         |
+
+### CS241002 | **朱宏國** | 軟體設計與實驗，Software Studio
+  > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/IgDcfcPlGEf1QaiQp0KcM8YHAZQdTrerJpAsewrRrQ1etCw?e=ueF53o) | ==用 eeclass== **[name=XS]**
+  - 不會點名
+  - AI 時代加油，不要絕望
+  - 去學 Harness Engineering 大家
+  - 量到期末會有一些大，記得要分配好時間
+
+  | 作業 / 考試 | 次數     | 總成績佔比  |
+|-----------|----------|-----------|
+| 上機考 | ~10 | 20 |
+| 作業 | 2 | 20 |
+| 期中專題 | 1 | 20 |
+| 期末專題 | 1 | 40 |
+  
 # EECS
 ### EECS121000 | 周百祥 | Python語言程式入門 Introduction to Programming in Python
 > [資源連結](https://365nthu-my.sharepoint.com/:f:/g/personal/113062362_office365_nthu_edu_tw/Eq6_w6h1trZEqlFyS_dXAggBh1f7oK42LuNuT3ZkQxTIuQ?e=zlaXfc) | ==用 eeclass && 清大磨課師 MOOCS==  **[name=xs]**
